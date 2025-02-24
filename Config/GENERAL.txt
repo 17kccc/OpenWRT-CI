@@ -12,6 +12,7 @@ CONFIG_PACKAGE_luci-app-qBittorrent=y
 CONFIG_PACKAGE_luci-app-alist=y
 CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_luci-app-qbittorrent=y
+CONFIG_PACKAGE_luci-app-transmission=y
 #删除插件
 CONFIG_PACKAGE_luci-app-wol=n
 CONFIG_PACKAGE_luci-app-ddns=n
