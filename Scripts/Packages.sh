@@ -48,6 +48,7 @@ UPDATE_PACKAGE() {
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "unishare" "kenzok8/small-package" "main" "pkg"
+UPDATE_PACKAGE "webdav2" "kenzok8/small-package" "main" "pkg"
 
 #更新软件包版本
 UPDATE_VERSION() {
