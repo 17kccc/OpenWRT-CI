@@ -50,7 +50,6 @@ UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-ap
 UPDATE_PACKAGE "unishare" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "webdav2" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "adguardhome" "kenzok8/small-package" "main" "pkg"
-UPDATE_PACKAGE "aurora" "eamonxg/luci-theme-aurora" "master"
 
 #更新软件包版本
 UPDATE_VERSION() {
