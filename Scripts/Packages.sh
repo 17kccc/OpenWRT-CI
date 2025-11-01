@@ -49,12 +49,11 @@ UPDATE_PACKAGE "unishare" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "webdav2" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "mosdns" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "v2dat" "kenzok8/small-package" "main" "pkg"
-UPDATE_PACKAGE "tailscale" "kenzok8/small-package" "main" "pkg"
 
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "xiaorouji/openwrt-passwall2" "main" "pkg"
 
-#UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
+UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 
 #更新软件包版本
