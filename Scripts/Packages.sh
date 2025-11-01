@@ -48,6 +48,7 @@ UPDATE_PACKAGE() {
 UPDATE_PACKAGE "unishare" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "webdav2" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "mosdns" "kenzok8/small-package" "main" "pkg"
+UPDATE_PACKAGE "v2dat" "kenzok8/small-package" "main" "pkg"
 UPDATE_PACKAGE "tailscale" "kenzok8/small-package" "main" "pkg"
 
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
